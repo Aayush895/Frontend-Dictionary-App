@@ -13,6 +13,10 @@ function SearchWordMeaning({ font, toggleTheme }) {
 
   async function handleWordMeaning(e) {
     e.preventDefault()
+    if(!input) {
+      alert('Please enter a valid word!')
+      return 
+    }
     const fetchMeaning = await fetch(
       `https://api.dictionaryapi.dev/api/v2/entries/en/${input}`
     )
