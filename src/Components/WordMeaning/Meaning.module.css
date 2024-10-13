@@ -1,0 +1,127 @@
+#meaningContainer {
+  width: 40%;
+  margin-top: 2rem;
+}
+
+#headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+}
+
+#header > h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+#header > p {
+  color: #A445ED;
+  font-size: larger;
+}
+
+#darkHeader > h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+#darkHeader > p {
+  color: #A445ED;
+  font-size: larger;
+}
+
+#audioContainer {
+  color: #A445ED;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #e1d5ea;
+  cursor: pointer;
+}
+
+#body {
+  width: 40%;
+}
+
+#differentMeaningsContainer {
+  margin-bottom: 2rem;
+}
+
+#darkdifferentMeaningsContainer {
+  margin-bottom: 2rem;
+  color: #fff;
+}
+
+#partOfSpeechContainer {
+  font-weight: bold;
+  font-size: larger;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  
+}
+
+#partOfSpeechContainer > div {
+  border: 1px solid #E9E9E9;
+  width: 100%;
+  margin: 0 1rem;
+}
+
+#differentMeaningsContainer > p {
+  color: #757575;
+  margin: 1.5rem 0;
+}
+
+#meaningList {
+  width: 85%;
+  margin: 0 3rem;
+}
+
+#darkMeaninglist {
+  width: 85%;
+  margin: 0 3rem;
+}
+
+#meaningList > li::marker {
+  color: #8f19e8;
+}
+
+#darkMeaninglist > li::marker {
+  color: #8f19e8;
+}
+
+#meaningList > li {
+  color: #2d2d2d;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+#darkMeaninglist > li {
+  margin-top: 1rem;
+  color: #fff;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+#synonymContainer {
+  margin-top: 3rem;
+}
+
+#synonymContainer > p {
+  color: #757575;
+}
+
+#synonymContainer > p > span {
+  color: #A445ED;
+}
+
+#horizontalLine {
+  border: 1px solid #E9E9E9;
+  width: 40%;
+  margin: 0 1rem;
+}

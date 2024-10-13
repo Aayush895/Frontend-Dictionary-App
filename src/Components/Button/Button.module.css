@@ -1,0 +1,18 @@
+#buttonContainer {
+  height: 1.5rem;
+  width: 3rem;
+  border-radius: 1rem;
+  position: relative;
+  background-color: #979797;
+}
+
+#buttonToggle {
+  height: 1rem;
+  width: 1rem;
+  border-radius: 50%;
+  position: absolute;
+  top: 0.25rem;
+  left: 0.25rem;
+  background-color: #fff;
+  transition: ease-in-out 0.5s;
+}

@@ -1,0 +1,49 @@
+#navBarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+#fontdropDown {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#dropDown {
+  border-right: 1px solid lightgray;
+  padding: 0 1rem;
+  margin: 0 2rem;
+}
+
+#dropDown > select {
+  border: none;
+  background-color: #fff;
+  font-weight: bold;
+  font-size: medium;
+}
+
+#theme {
+  display: flex;
+  align-items: center;
+  margin: 0 1rem;
+}
+
+#theme > img {
+  margin: 0 1rem;
+}
+
+#darkDropdown {
+  border-right: 1px solid lightgray;
+  padding: 0 1rem;
+  margin: 0 2rem;
+}
+
+#darkDropdown > select {
+  border: none;
+  background-color: #050505;
+  color: #fff;
+  font-weight: bold;
+  font-size: medium;
+}
