@@ -125,3 +125,19 @@
   width: 40%;
   margin: 0 1rem;
 }
+
+/* Responsive design code */
+
+@media(max-width: 834px) {
+  #meaningContainer {
+    width: 89%;
+  }
+  
+  #body {
+    width: 89%;
+  }
+
+  #horizontalLine {
+    width: 90%;
+  }
+}

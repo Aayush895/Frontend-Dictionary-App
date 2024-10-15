@@ -54,11 +54,6 @@
   right: 1rem;
 }
 
-#errorMessage {
-  font-size: x-large;
-  text-align: center;
-}
-
 /* Responsive design code */
 @media (max-width: 1440px) {
   #searchContainer {
@@ -86,5 +81,42 @@
   #darksearchContainer > img {
     position: absolute;
     right: 1rem;
+  }
+}
+
+@media (max-width: 834px) {
+  #searchContainer {
+    width: 90%;
+  }
+
+  #searchContainer > form > input {
+    width: 46rem;
+  }
+
+  #darksearchContainer {
+    border: 1px solid white;
+    width: 90%;
+  }
+
+  #darksearchContainer > form > input {
+    width: 46rem;
+  }
+}
+
+@media (max-width: 428px) {
+  #searchContainer {
+    width: 85%;
+  }
+
+  #searchContainer > form > input {
+    width: 22rem;
+  }
+
+  #darksearchContainer {
+    width: 85%;
+  }
+
+  #darksearchContainer > form > input {
+    width: 22rem;
   }
 }

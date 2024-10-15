@@ -30,8 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Dark Mode](./Screenshots/darkMode.png)
-![Light Mode](./Screenshots/lightMode.png)
+![Dark Mode Laptop](./Screenshots/darkMode.png)
+![Light Mode Laptop](./Screenshots/lightMode.png)
+![Dark Mode Tablet](./Screenshots/darkTablet.png.png)
+![Light Mode Tablet](./Screenshots/lightTablet.png.png)
+![Dark Mode Mobile](./Screenshots/darkMobile.png.png)
+![Light Mode Mobile](./Screenshots/lightMobile.png.png)
 
 
 ### Links
