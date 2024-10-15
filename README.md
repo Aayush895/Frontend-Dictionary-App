@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Aayush895/Frontend-Dictionary-App)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live link](https://frontend-dictionary-app.vercel.app/)
 
 ## My process
 
