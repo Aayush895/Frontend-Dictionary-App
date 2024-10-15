@@ -32,10 +32,10 @@ Users should be able to:
 
 ![Dark Mode Laptop](./Screenshots/darkMode.png)
 ![Light Mode Laptop](./Screenshots/lightMode.png)
-![Dark Mode Tablet](./Screenshots/darkTablet.png.png)
-![Light Mode Tablet](./Screenshots/lightTablet.png.png)
-![Dark Mode Mobile](./Screenshots/darkMobile.png.png)
-![Light Mode Mobile](./Screenshots/lightMobile.png.png)
+![Dark Mode Tablet](./Screenshots/darkTablet.png)
+![Light Mode Tablet](./Screenshots/lightTablet.png)
+![Dark Mode Mobile](./Screenshots/darkMobile.png)
+![Light Mode Mobile](./Screenshots/lightMobile.png)
 
 
 ### Links
